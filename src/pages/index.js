@@ -47,8 +47,8 @@ const IndexPage = ({
       <Hero>
         <h1>Hi.</h1>
         <p>
-          I&apos;m John Doe, a Senior UX Developer with five years of industry experience, specializing in developing
-          React apps with the best UX users can get.
+          I&apos;m Angel A, English teacher at IES GDV with twenty-five years of teacjing experience, specializing in developing
+          digital materials.
         </p>
         <Link to="/contact">
           <Button big>
