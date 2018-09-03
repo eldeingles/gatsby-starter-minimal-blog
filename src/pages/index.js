@@ -47,7 +47,7 @@ const IndexPage = ({
       <Hero>
         <h1>Hi.</h1>
         <p>
-          I&apos;m Angel A, English teacher at IES GDV with twenty-five years of teacjing experience, specializing in developing
+          I&apos;m Angel A, English teacher at IES GDV with twenty-five years of teaching experience, specializing in developing
           digital materials.
         </p>
         <Link to="/contact">
